@@ -1,0 +1,11 @@
+C:\Users\akraw\source\repos\svgLibrary\bin\Debug\svgLibrary.exe.config
+C:\Users\akraw\source\repos\svgLibrary\bin\Debug\svgLibrary.exe
+C:\Users\akraw\source\repos\svgLibrary\bin\Debug\svgLibrary.pdb
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.csprojAssemblyReference.cache
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.Properties.Resources.resources
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.csproj.GenerateResource.cache
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.csproj.CoreCompileInputs.cache
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.exe
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.pdb
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.MainForm.resources
+C:\Users\akraw\source\repos\svgLibrary\obj\Debug\svgLibrary.ScanForm.resources
